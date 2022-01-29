@@ -1,5 +1,5 @@
 # [Imperio Tokenomics](https://app.imperio.money/)
-This is the front-end repo for Imperio Dao. 
+This is the tokenomics repo for Imperio Dao. 
 
 All our smart contracts for presale : 1/ Presale contract and 2/xIMP token are based on the framework Openzeppelin which is a secured and audited framwork.
 
