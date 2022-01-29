@@ -1,7 +1,7 @@
 # [Imperio Tokenomics](https://app.imperio.money/)
 This is the tokenomics repo for Imperio Dao. 
 
-All our smart contracts for presale. : 1/ Presale contract and 2/xIMPR token are based on the framework Openzeppelin which is a secured and audited framwork.
+All our smart contracts for presale: 1/ Presale contract and 2/xIMPR token are based on the framework Openzeppelin which is a secured and audited framwork.
 
 Warning: By investing your money in Imperio Dao you are liable for any losses due to any unforseen reason including but not limited to hacking or metaverse losses. Imperio Dao is not liable for any losses nor do we offer financal advice. We will dedicate fees to legal and markting as per medium and discord. 
 
